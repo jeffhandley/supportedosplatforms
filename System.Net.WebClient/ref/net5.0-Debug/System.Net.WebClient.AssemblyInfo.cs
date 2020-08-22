@@ -10,7 +10,6 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Runtime.Versioning.UnsupportedOSPlatform("browser")]
 [assembly: System.Reflection.AssemblyDefaultAliasAttribute("System.Net.WebClient")]
 [assembly: System.Reflection.AssemblyMetadata(".NETFrameworkAssembly", "")]
 [assembly: System.Reflection.AssemblyMetadata("Serviceable", "True")]

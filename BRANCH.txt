@@ -1,1 +1,1 @@
-jeffhandley/runtime:master-supportedosplatforms
+jeffhandley/runtime:release/5.0-supportedosplatforms
