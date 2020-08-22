@@ -10,6 +10,7 @@
 using System;
 using System.Reflection;
 
+[assembly: System.Runtime.Versioning.SupportedOSPlatform("windows")]
 [assembly: System.Reflection.AssemblyDefaultAliasAttribute("System.Console")]
 [assembly: System.Resources.NeutralResourcesLanguage("en-US")]
 [assembly: System.Reflection.AssemblyMetadata(".NETFrameworkAssembly", "")]

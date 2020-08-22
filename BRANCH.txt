@@ -1,1 +1,1 @@
-dotnet/runtime:master
+jeffhandley/runtime:master-supportedosplatforms

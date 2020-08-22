@@ -10,6 +10,7 @@
 using System;
 using System.Reflection;
 
+[assembly: System.Runtime.Versioning.SupportedOSPlatform("windows")]
 [assembly: System.Reflection.AssemblyDefaultAliasAttribute("Microsoft.Win32.Primitives")]
 [assembly: System.Reflection.AssemblyMetadata(".NETFrameworkAssembly", "")]
 [assembly: System.Reflection.AssemblyMetadata("Serviceable", "True")]
