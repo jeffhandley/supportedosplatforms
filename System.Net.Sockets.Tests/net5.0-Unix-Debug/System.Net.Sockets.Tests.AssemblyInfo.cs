@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: System.Runtime.Versioning.UnsupportedOSPlatform("browser")]
 [assembly: System.Reflection.AssemblyDefaultAliasAttribute("System.Net.Sockets.Tests")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Microsoft Corporation")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("© Microsoft Corporation. All rights reserved.")]

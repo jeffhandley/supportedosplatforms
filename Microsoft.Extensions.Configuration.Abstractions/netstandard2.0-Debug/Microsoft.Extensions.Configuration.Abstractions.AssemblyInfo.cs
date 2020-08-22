@@ -11,6 +11,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyDefaultAliasAttribute("Microsoft.Extensions.Configuration.Abstractions")]
+[assembly: System.Resources.NeutralResourcesLanguage("en-US")]
 [assembly: System.Reflection.AssemblyMetadata(".NETFrameworkAssembly", "")]
 [assembly: System.Reflection.AssemblyMetadata("Serviceable", "True")]
 [assembly: System.Reflection.AssemblyMetadata("PreferInbox", "True")]
